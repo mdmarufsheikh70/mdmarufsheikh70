@@ -1,13 +1,14 @@
 <h1 align="center">  
   <img  
-   src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F59E0B&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Md+Maruf+Sheikh!;+A+Software+Engineer+And;+Flutter+Developer!%F0%9F%92%9E%EF%B8%8F!;"  
+   src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F59E0B&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Md+Maruf+Sheikh!;+ and i'm a programmer.
+!%F0%9F%92%9E%EF%B8%8F!;"  
    alt="Typing animation"  
  />  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 </h1>  
 
 ## About Me  
-- **📫 I am a Software Engineer And Flutter Developer**  
+- **📫 I am a programmer**  
 - **💞️ I am a student of Computer Science and Engineering (CSE) department**  
 - **👀 Interested in:** Programming  
 - **🌱 Currently learning:** Practicing DSA with C++, Development And Database!  
@@ -48,11 +49,8 @@
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
