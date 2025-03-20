@@ -1,9 +1,9 @@
 <h1 align="center">  
-  <img  
-   src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F59E0B&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Md+Maruf+Sheikh!;+ and i'm a programmer.
-!%F0%9F%92%9E%EF%B8%8F!;"  
-   alt="Typing animation"  
- />  
+<img  
+   src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F59E0B&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Md+Maruf+Sheikh!;+And+I'm+a+programmer!+%F0%9F%92%9E"  
+   alt="Typing animation showing introduction text"  
+/>
+
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 </h1>  
 
