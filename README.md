@@ -9,7 +9,7 @@
 
 ## About Me  
 - **📫 I am a programmer**  
-- **💞️ I am a student of Computer Science and Engineering (CSE) department**  
+- **💞️ I am a student in the Department of Computer Science and Engineering (CSE)**  
 - **👀 Interested in:** Programming  
 - **🌱 Currently learning:** Practicing DSA with C++, Development And Database!  
 - **💞️ Looking to collaborate on:** Open-source projects  
