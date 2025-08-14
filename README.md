@@ -4,7 +4,7 @@
    alt="Typing animation showing introduction text"  
 />
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 </h1>  
 
 ## About Me  
@@ -34,7 +34,7 @@
 
 <p align="center">  
   Visitor count<br>  
-  <img src="https://profile-counter.glitch.me/mdmarufsheikh70/count.svg" />  
+  <img src="https://komarev.com/ghpvc/?username=mdmarufsheikh70&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>  
 </p>  
 
 ---
